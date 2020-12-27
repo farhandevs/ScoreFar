@@ -7,6 +7,7 @@ declare(strict_types = 1);
  * Copyright (c) 2020 farhandevs  < https://github.com/farhandevs >
  *
  * Discord: Rey#6127
+
  *
  * This software is distributed under "GNU General Public License v3.0".
  * This license allows you to use it and/or modify it but you are not at

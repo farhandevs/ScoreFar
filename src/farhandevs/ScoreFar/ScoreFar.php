@@ -2,13 +2,7 @@
 declare(strict_types = 1);
 
 /**
- *     _____                    _   _           _
- *    /  ___|                  | | | |         | |
- *    \ `--.  ___ ___  _ __ ___| |_| |_   _  __| |
- *     `--. \/ __/ _ \| '__/ _ \  _  | | | |/ _` |
- *    /\__/ / (_| (_) | | |  __/ | | | |_| | (_| |
- *    \____/ \___\___/|_|  \___\_| |_/\__,_|\__,_|
- *
+
  * ScoreFar, a Scoreboard plugin for PocketMine-MP
  * Copyright (c) 2020 farhandevs  < https://github.com/farhandevs >
  *
